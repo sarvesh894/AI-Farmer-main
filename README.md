@@ -109,4 +109,4 @@ croprecommender/
 **Sarvesh Mishra**  
 Final Year CSE — Galgotia University, Noida 
 📧 sarveshmishra7617@gmail.com  
-🐙 [github.com/awanitsingh](https://github.com/sarvesh894)
+🐙 [github.com/sarvesh894](https://github.com/sarvesh894)
