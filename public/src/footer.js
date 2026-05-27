@@ -184,12 +184,12 @@ function Footer({ onContactClick }) {
             <p className="text-gray-500 text-xs">
               Developed with ❤️ by{" "}
               <a 
-                href="https://github.com/awanitsingh" 
+                href="https://github.com/sarvesh894" 
                 className="text-green-400 hover:text-green-300 transition-colors duration-200"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Awanit Kumar Singh
+                Sarvesh Mishra
               </a>
               {" "}| Empowering farmers through technology
             </p>
